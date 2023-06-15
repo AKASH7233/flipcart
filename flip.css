@@ -216,6 +216,7 @@ footer .row{
 }
 .row img:hover{
     transform:scale(1.06);
+    margin-left:10px;
 }
 .footer{
     width: 100%;
